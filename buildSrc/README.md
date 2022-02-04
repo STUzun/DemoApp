@@ -1,0 +1,1 @@
+Bu proje öğrenme ve alıştırma yapma amaçlı oluşturuldu.
